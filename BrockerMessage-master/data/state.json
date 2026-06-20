@@ -1,0 +1,12 @@
+{
+  "lb_topic": {
+    "group_1": 10
+  },
+  "multi_topic": {
+    "Group_A": 1,
+    "Group_B": 1
+  },
+  "restart_topic": {
+    "restart_group": 2
+  }
+}
